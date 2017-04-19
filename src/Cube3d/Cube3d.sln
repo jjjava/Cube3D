@@ -1,14 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube3d", "Assembly-CSharp-firstpass.csproj", "{8CB022B7-C315-466E-9D97-33FA1E5E8568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube3d", "Assembly-CSharp.csproj", "{715A6E2F-830C-3926-63D7-E60FC5D2446B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube3d", "Assembly-CSharp-Editor-firstpass.csproj", "{B6859F15-B75D-719C-2041-715745A5D3D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{8CB022B7-C315-466E-9D97-33FA1E5E8568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB022B7-C315-466E-9D97-33FA1E5E8568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB022B7-C315-466E-9D97-33FA1E5E8568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB022B7-C315-466E-9D97-33FA1E5E8568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{715A6E2F-830C-3926-63D7-E60FC5D2446B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715A6E2F-830C-3926-63D7-E60FC5D2446B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715A6E2F-830C-3926-63D7-E60FC5D2446B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715A6E2F-830C-3926-63D7-E60FC5D2446B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6859F15-B75D-719C-2041-715745A5D3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6859F15-B75D-719C-2041-715745A5D3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6859F15-B75D-719C-2041-715745A5D3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6859F15-B75D-719C-2041-715745A5D3D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
